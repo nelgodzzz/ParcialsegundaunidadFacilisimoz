@@ -1,0 +1,14 @@
+Nombre: Nelson Eduardo
+Apellido: Godinez Chacon
+Grado: 5 bachillerato en computacion
+
+Carrera que pienso seguir en la universidad: Ingeniería en Tecnologías de la Información y Comunicaciones.
+
+motivo: simplemente me gusta todo lo que es la tecnologia los avances que hay cada año.
+
+que es html?HTML es el lenguaje con el que se define el contenido de las páginas web. 
+Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.
+El HTML es un lenguaje de marcación de elementos para la creación de documentos hipertexto, muy fácil de aprender, lo que permite que cualquier persona, aunque no haya
+programado en la vida, pueda enfrentarse a la tarea de crear una web.  Este lenguaje se escribe en un documento de texto, por eso necesitamos un editor de textos para
+escribir una página web. Así pues, el archivo donde está contenido el código HTML es un archivo de texto, con una peculiaridad, que tiene extensión .
+De modo que cuando programemos en HTML lo haremos con un editor de textos, lo más sencillo posible y guardaremos nuestros trabajos con extensión .
